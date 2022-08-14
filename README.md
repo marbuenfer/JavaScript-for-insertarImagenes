@@ -1,0 +1,4 @@
+#EJERCICIO PARA INSERTAR Y BORRAR IMÁGENES DINÁMICAMENTE
+
+
+![image](https://user-images.githubusercontent.com/66112531/184554017-703abde6-0934-4426-b029-34e049009fa5.png)
