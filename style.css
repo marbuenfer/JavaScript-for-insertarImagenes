@@ -1,0 +1,13 @@
+.caja {
+  width: 570px;
+  height: 100%;
+  background-color: green;
+}
+.contenedor {
+  width: 800px;
+  height: 500px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
